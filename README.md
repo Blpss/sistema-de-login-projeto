@@ -5,7 +5,7 @@ Este projeto é um sistema de cadastro e autenticação de usuários desenvolvid
 
  #Demonstração do sistema
 
-<p> align="center">
+<p align="center">
  <img src="sistema_demo.gif" width="600">
 </p>
 
